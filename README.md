@@ -75,27 +75,27 @@ Confirmed proper Active Directory functionality by:
 ## Screenshots
 
 ### 1. Active Directory Installation
-![AD Installation] (screenshots/ADDS_role_installation_windows_server)
+![AD Installation] (screenshots/01-ad-role-installation.png)
 
 ---
 
 ### 2. Domain Controller Promotion
-![Domain Controller] (screenshots/ADDS_domain_controller_promotion_lab.local.server)
+![Domain Controller] (screenshots/02-ad-domain-controller.png)
 
 ---
 
 ### 3. User Creation (Domain Admin)
-![User Creation] (screenshots/AD User](screenshots/ADDS_create_domain_admin_user_lab_local)
+![User Creation] (screenshots/AD User](screenshots/03-ad-create-user.png)
 
 ---
 
 ### 4. Authentication Test
-![Authentication] (screenshots/Domain_authentication_lab_administrator)
+![Authentication] (screenshots/04-ad-authentication.png)
 
 ---
 
 ### 5. Active Directory Verification
-![Verification] (screenshots/active_directory_domain_working_verify_lab_local.png)
+![Verification] (screenshots/05-ad-verification.png)
 ## Summary
 
 This lab demonstrates a complete Active Directory deployment lifecycle in a cloud environment, from installation to validation of a working domain infrastructure.
